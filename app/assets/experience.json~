@@ -1,0 +1,101 @@
+{   	
+	"nom1":
+	[
+		{"name": "Alcatel-Lucent Shanghai Bell Co., Ltd"}
+	],
+
+	"experience1":
+	[
+		{"name": "Août.2012-Sep.2012"},
+		{"name": "Shanghai, Chine"}
+	],
+	"experience1content":
+	[
+		{"name": "Programmation des logiciels d’équipements du réseau"},
+		{"name": "Modification et Addition des méthodes de la console selon les besoins des clients"}
+	],
+
+	"experience1acquis":
+	[
+		{"name": "Linux,C/C++,XML,Mercurial"},
+		{"name": "J'ai appris comment travailler avec les collègues en utilisant Mercurial"},
+		{"name": "J'ai appris comment une équipe agile travaille."},
+		{"name": "J'ai appris comment progammer en équipement du réseau."},
+		{"name": "J'ai bien pratiqué la capacité de programmation en langage C++ et XML."}
+	],
+	"nom2":
+	[
+		{"name": "Projet : La Carte du Maraudeur(4 personnes)"}
+	],
+
+	"experience2":
+	[
+		{"name": "Simulateur de positionnement et Sécurisation du système"},
+		{"name": "Janvier.2015"}
+	],
+	"experience2content":
+	[
+		{"name": "Un projet de 3 semaine en équipe agile de 4 personne"},
+		{"name": "Axe Architeture Logiciel: Simulateur de positionnement"},
+		{"name": "Axe CASPAR: Sécurisation du système"},
+		{"name": "Créer les tâches aves les besoins du client"}
+	],
+
+	"experience2acquis":
+	[
+		{"name": "JAVA,XML"},
+		{"name": "J'ai participé à écrire l'interface graphique, à implémenter l’algorithme A-Star"},
+		{"name": "J'ai participé à implémenter l’interface pour la communication avec le serveur"},
+		{"name": "J'ai participé à implémenter le SSL et Https"},
+		{"name": "J'ai créé la vidéo"}
+	],
+	"nom3":
+	[
+		{"name": "Projet : The cookie factory (3 personnes)"}
+	],
+
+	"experience3":
+	[
+		{"name": "Un projet du serveur d’entreprise."},
+		{"name": "Févr.2015-Mai.2015"}
+	],
+	"experience3content":
+	[
+		{"name": "Un projet pour réaliser une fonction de e-shop."},
+		{"name": "Combination du EJB, .Net et Base de données."},
+		{"name": "Implématation non seulment le seuver mais aussi les interfaces."}
+	],
+
+	"experience3acquis":
+	[
+		{"name": "Tomee EJB,JAVA,.NET,SQL,Maven"},
+		{"name": "J'ai participé à décider le structure logiciel"},
+		{"name": "J'ai écrit les WebServices pour utiliser les session bean et les entités du EJB."},
+		{"name": "J'ai écrit la coté client pour tester le serveur"},
+		{"name": "j'ai écrit les interfaces."}
+	],
+	"nom4":
+	[
+		{"name": "Projet: Arena Intelligence"}
+	],
+
+	"experience4":
+	[
+		{"name": "Un projet de 12 personne en 3 groupe de 4 personnes"},
+		{"name": "Juin.2015"}
+	],
+	"experience4content":
+	[
+		{"name": "En train de préparer..."}
+		
+	],
+
+	"experience4acquis":
+	[
+		{"name": "Tomee EJB,JAVA,.NET,SQL,Maven"},
+		{"name": "J'ai participé à décider le structure logiciel"},
+		{"name": "J'ai écrit les WebServices pour utiliser les session bean et les entités du EJB."},
+		{"name": "J'ai écrit la coté client pour tester le serveur"},
+		{"name": "j'ai écrit les interfaces."}
+	]
+}

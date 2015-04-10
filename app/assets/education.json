@@ -1,0 +1,29 @@
+{   	
+	"nom1":
+	[
+		{"name": "Polytech Nice-Sophia, Université de Nice Sophia-Antipolis"}
+	],
+	"detail1":
+	[
+		{"name": "Sep.2013-Maintenant"},		
+		{"name": "Cycle ingénieur en Sciences Informatique"}
+	],
+	"nom2":
+	[
+		{"name": "Université de Technologie Sino-Européenne de l’Université de Shanghai"}
+	],
+	"detail2":
+	[
+		{"name": "Sep.2010-Juin.2013"},		
+		{"name": "Licence en Génie Informatique"}
+	],
+	"nom3":
+	[
+		{"name": "Deuxième Lycée de L’université Normale de L’Est"}
+	],
+	"detail3":
+	[
+		{"name": "Sep.2008-Juin.2010"},
+		{"name": "Équivalant au baccalauréat"}
+	]
+}

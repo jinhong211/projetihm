@@ -1,0 +1,87 @@
+<div class = "info">
+<h2 style="text-align: center;"><img src = "../images/competence.png" width = "80"/>Mes competences<img src = "../images/competence.png" width = "80"/></h2>
+<div class="row">
+      <hr/>
+</div>
+<div class="row">	
+	<div class="col-lg-12">
+		<h3>Langages</h3>
+	<ul>
+			<h4>你好!<ul><h5>Chinois: Langue maternelle</h5></ul></h4>	
+			<h4>Bonjour!<ul><h5>Français: Niveau intermédiaire</h5></ul></h4>
+			<h4>Hello!<ul><h5>Anglais: Niveau intermédiaire</h5></ul></h4>
+			<h4>안녕하십니까!<ul><h5>Coréen: Niveau débutant</h5></ul></h4>
+			</ul>
+    </div>
+</div>
+<div class="row">
+      <hr/>
+</div>
+<div class="row">	
+	<div class="col-lg-6">
+		<h3>Système d'opération</h3>
+	<ul>
+    			<p class="acquis"><img src = "../images/mac.png" width = "30"/>Mac OS&nbsp;&nbsp;&nbsp;<img src = "../images/unix.png" width = "30"/>Sun OS/Unix/Linux</p>
+			</ul>
+    </div>
+	<div class="col-lg-6">
+		<h3>Langages de programmation</h3>
+	<ul>
+    			<p class="acquis"><img src = "../images/c.png" width = "30"/>&nbsp;C/C++/C#&nbsp;&nbsp;&nbsp;<img src = "../images/java.png" width = "30"/>JAVA/J2EE(EJB MVC)&nbsp;&nbsp;&nbsp;<img src = "../images/swift.png" width = "30"/>Swift&nbsp;&nbsp;&nbsp;<img src = "../images/net.jpg" width = "30"/>.NET</p>
+			</ul>
+    </div>
+</div>
+<div class="row">
+      <hr/>
+</div>
+<div class="row">	
+	<div class="col-lg-6">
+		<h3>Langage du web</h3>
+	<ul>
+    			<p class="acquis"><img src = "../images/html.png" width = "30"/>Html&nbsp;&nbsp;&nbsp;<img src = "../images/css.png" width = "30"/>CSS&nbsp;&nbsp;&nbsp;<img src = "../images/xml.png" width = "30"/>XML</p>
+			<p class="acquis"><img src = "../images/xsl.png" width = "30"/>&nbsp;XSL&nbsp;&nbsp;&nbsp;<img src = "../images/dtd.png" width = "30"/>DTD&nbsp;&nbsp;&nbsp;<img src = "../images/xsd.png" width = "30"/>XSD</p>
+			<p class="acquis"><img src = "../images/yeo.png" width = "90"/>&nbsp;Yeoman&nbsp;&nbsp;&nbsp;<img src = "../images/angular.png" width = "30"/>AngularJS</p>
+			</ul>
+    </div>
+	<div class="col-lg-6">
+		<h3>Outil pour le génie logiciel</h3>
+	<ul>
+    			<p class="acquis"><img src = "../images/git.png" width = "30"/>Git&nbsp;&nbsp;&nbsp;<img src = "../images/sonar.png" width = "50"/>Sonar&nbsp;&nbsp;&nbsp;<img src = "../images/maven.gif" width = "70"/>Maven&nbsp;&nbsp;&nbsp;<img src = "../images/mecurial.png" width = "30"/>Mercurial</p>
+			</ul>
+    </div>
+</div>
+<div class="row">
+      <hr/>
+</div>
+<div class="row">	
+	<div class="col-lg-6">
+		<h3>Langage sémantique</h3>
+	<ul>
+    			<p class="acquis">YACC&nbsp;&nbsp;&nbsp;Lex</p>
+			</ul>
+    </div>
+	<div class="col-lg-6">
+		<h3>Programmation fonctionnelle et logique</h3>
+	<ul>
+    			<p class="acquis">Scheme&nbsp;&nbsp;&nbsp;Prolog</p>
+			</ul>
+    </div>
+</div>
+<div class="row">
+      <hr/>
+</div>
+<div class="row">	
+	<div class="col-lg-6">
+		<h3>Base de données</h3>
+	<ul>
+    			<p class="acquis"><img src = "../images/mac.png" width = "30"/>Mac OS&nbsp;&nbsp;&nbsp;<img src = "../images/unix.png" width = "30"/>Sun OS/Unix/Linux</p>
+			</ul>
+    </div>
+	<div class="col-lg-6">
+		<h3>UML</h3>
+    </div>
+</div>
+<div class="row">
+      <hr/>
+</div>
+</div>

@@ -1,0 +1,123 @@
+<div class="collapse navbar-collapse" id="js-navbar-collapse">
+	<ul class="nav navbar-nav">
+        	<li><a ng-href="" id = "en"><img src = "../images/english.jpeg" height = "30px" width = "45px"/></a></li>
+	      	<li><a ng-href="" id = "fr"><img src = "../images/france.png" height = "30px" width = "45px"/></a></li>
+            <li><a ng-href="" id = "ch"><img src = "../images/china.png" height = "30px" width = "45px"/></a></li>
+    </ul>
+</div>
+
+<div class="jumbotron">
+  <h1>Je suis JIN Hong</h1>
+  <h4>Je suis ingénieur en développement</h4>
+  <p class="lead">
+    <img id = "logo" src = "../images/jinhong.jpg" width = "120"/><br>
+    Continuer à apprendre et m'améliorer.
+  </p>
+  <p><a id = "download" href="assets/CV/JINHONG_CV.pdf">TELECHARGER CV</a></p>
+</div>
+
+<div class = "info">
+<div class="row">
+      <hr/>
+</div>
+
+<div class="row">
+	<div class="col-lg-4">
+        <h1>FORMATION</h1>
+    </div>
+    <div class="col-lg-6">
+    	<div class="container" id = "information">
+    		<ul>
+    			<h3 ng-repeat = "etab in main.education1">{{etab.name}}</h3>
+    			<h4 ng-repeat = "etab in main.education1content">{{etab.name}}</h4>
+    			<h3 ng-repeat = "etab in main.education2">{{etab.name}}</h3>
+    			<h4 ng-repeat = "etab in main.education2content">{{etab.name}}</h4>
+    			<h3 ng-repeat = "etab in main.education3">{{etab.name}}</h3>
+    			<h4 ng-repeat = "etab in main.education3content">{{etab.name}}</h4>
+			<a id = "detail" ng-href="#/education/formation">Plus De Détails...</a>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row">
+      <hr/>
+</div>
+<div class="row">
+	<div class="col-lg-4">
+        <p><h1>EXPERIENCE</h1></p>
+    </div>
+    <div class="col-lg-6">
+    	<div class="container" id = "information">
+    		<ul>
+    			<h3 class = "workextitle" ng-repeat = "etab in main.experience1">{{etab.name}}</h3>
+    			<h3 class = "workextitle" ng-repeat = "etab in main.experience2">{{etab.name}}</h3>
+			<a id = "detail" ng-href="#/experience">Plus De Détails...</a>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row">
+      <hr/>
+</div>
+<div class="row">
+	<div class="col-lg-4">
+        <h1>COMPETENCE</h1>
+    </div>
+    <div class="col-lg-6">
+    	<div class="container" id = "information">
+    		<ul>
+    			<h4 ng-repeat = "etab in main.technologies">{{etab.name}}</h4>
+			<a id = "detail" ng-href="#/competence">Plus De Détails...</a>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row">
+      <hr/>
+</div>
+<div class="row">
+	<div class="col-lg-4">
+        <h1>INTERET</h1>
+    </div>
+    <div class="col-lg-6">
+    	<div class="container" id = "information">
+    		<ul>
+    			<h4>Escrime</h4>
+			<h4>Musique vocale</h4>
+			<h4>Jeux vidéo: DOTA2, LOL</h4>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row">
+      <hr/>
+</div>
+<div class="row">
+<div class="col-lg-4">
+    			<h1><span class="glyphicon glyphicon-envelope"></span>Contact</h1>
+			
+	</div>
+	<div class="col-lg-6">
+    	<div class="container" id = "information">	
+		<p><a id = "download2" ng-href="#/contact">Contactez-moi</a></p>
+		</div>
+	</div>
+</div>
+</div>
+<!-- <div class="row marketing">
+  <h4>HTML5 Boilerplate</h4>
+  <p>
+    HTML5 Boilerplate is a professional front-end template for building fast, robust, and adaptable web apps or sites.
+  </p>
+
+  <h4>Angular</h4>
+  <p>
+    AngularJS is a toolset for building the framework most suited to your application development.
+  </p>
+
+  <h4>Karma</h4>
+  <p>Spectacular Test Runner for JavaScript.</p>
+
+  <h4>{{toto}}</h4>
+  <p><input type="text" ng-model="toto"/><button ng-click="getStatus('chouette')">OK</button></p>
+</div> -->

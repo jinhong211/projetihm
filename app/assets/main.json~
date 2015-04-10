@@ -1,0 +1,52 @@
+{   	
+	"education1":
+	[
+		{"name": "2013 ~ Present"}
+	],
+
+	"education1content":
+	[
+		{"name": "Polytech Nice-Sophia"}
+	],
+
+	"education2":
+	[
+		{"name": "2010 ~ 2013"}
+	],
+
+	"education2content":
+	[
+		{"name": "Shanghai Université"}
+	],
+
+	"education3":
+	[
+		{"name": "2007 ~ 2010"}
+	],
+
+	"education3content":
+	[
+		{"name": "Deuxième Lycée de L’université Normale de L’Est"}
+	],	
+	"experience1":
+	[
+		{"name": "Experiences professionnelles"}
+	],
+
+	"experience2":
+	[
+		{"name": "Projet de l'école"}
+	],
+
+	"technologies":
+	[
+		{"name": "Système d'opération"},
+		{"name": "Langages de programmation"},
+		{"name": "Langage du web"},
+		{"name": "Outil pour le génie logiciel"},
+		{"name": "Langage sémantique"},
+		{"name": "Programmation fonctionnelle"},
+		{"name": "Base de données"},
+		{"name": "UML"}
+	]
+}
